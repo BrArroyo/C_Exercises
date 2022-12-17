@@ -14,7 +14,12 @@ Devuelve por terminal el doble de un número pedido por terminal
 
 ## Ejercicio 3
 
-The first exercise consists of determining the refund that a customer will receive when purchasing a product, having paid with a 100 bill.
+consists of determining the refund that a customer will receive when purchasing a product, having paid with a 100 bill.
 
 ## Ejercicio 4
 
+consists of request the radius of a circle and show the length and area of ​​the circle.
+
+## Ejercicio 5
+
+consists of display on screen the arithmetic mean of 4 numbers requested from the user.
